@@ -1,0 +1,15 @@
+@media screen and (max-width:991px)
+{
+	table#player-table{
+		width:90vw !important;
+		margin-left:-5px !important;
+	}
+}
+
+@media (min-width:992px)
+{
+	table#player-table{
+		width:35vw !important;
+		margin-left:-15px !important;
+	}
+}
